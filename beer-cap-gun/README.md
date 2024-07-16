@@ -21,6 +21,13 @@ To print at A1 mini use:
 5. Beer_Cap_Gun_Trigger_v8.stl
 6. Beer_Cap_Gun_Spanner_v8.stl
 
+## Materials
+* One rubber elastic band (Post man type)
+* Bolds, Hex or Philips or what ever
+* 2mm X 12mm neodymium magnet. Or smaler!
+* 3 x M3 X 8
+* 4 x M3 X 18
+
 Use:
 * 0.2mm
 * Support
